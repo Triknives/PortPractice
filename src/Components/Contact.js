@@ -78,12 +78,10 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Contact Information</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
 						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
 					   </p>
 				   </div>
 
@@ -92,8 +90,6 @@ class Contact extends Component {
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
