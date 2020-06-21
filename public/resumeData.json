@@ -1,20 +1,20 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Brett Cordell",
+    "occupation":"Web Developer",
+    "description":"To be filled out.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "bio":"I am a Full-Stack developer, with experience creating applications with both React.js and Ruby On Rails. Currently, I love working with the MERN stack and learning about applications that utilize the stack and its flexibility. Most of my time is spent learning new frameworks, languages and design strategies. Below are a few samples of my own projects.",
+    "contactmessage":"Please E-mail with the information provided below regarding inquires.",
+    "email": "cordell.desu@gmail.com",
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
+      "city":"Portland, Oregon",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://cordell-portfolio.herokuapp.com/",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
