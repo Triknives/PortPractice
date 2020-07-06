@@ -2,7 +2,7 @@
   "main": {
     "name":"Brett Cordell",
     "occupation":"Web Developer",
-    "description":"To be filled out.",
+    "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.",
     "image":"profilepic.jpg",
     "bio":"I am a Full-Stack developer, with experience creating applications with both React.js and Ruby On Rails. Currently, I love working with the MERN stack and learning about applications that utilize the stack and its flexibility. Most of my time is spent learning new frameworks, languages and design strategies. Below are a few samples of my own projects.",
     "contactmessage":"Please E-mail with the information provided below regarding inquires.",
@@ -15,22 +15,22 @@
       "zip": "97080"
     },
     "website": "https://cordell-portfolio.herokuapp.com/",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "url":"",
+        "className":""
       },
       {
         "name":"twitter",
         "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "className":""
       },
       {
         "name":"google-plus",
         "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "className":""
       },
       {
         "name":"linkedin",
@@ -40,17 +40,17 @@
       {
         "name":"instagram",
         "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "className":""
       },
       {
         "name":"github",
         "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
+        "className":""
       },
       {
         "name":"skype",
         "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "className":""
       }
     ]
   },
@@ -152,7 +152,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"",
+        "text":"asdfasdfasdfasdfasdfasdf",
         "user":"Kareem Abdul Jabbar"
       },
       {
